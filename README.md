@@ -9,3 +9,5 @@ Python app that gets news headlines and replaces words then tweets about it.
   - ACCESS_TOKEN_KEY
   - ACCESS_TOKEN_SECRET
   - FOX_NEWS_API_KEY
+  
+* Create virtual environment, activate virtual environment, install requirements
