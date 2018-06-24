@@ -11,3 +11,4 @@ Python app that gets news headlines and replaces words then tweets about it.
   - FOX_NEWS_API_KEY
   
 * Create virtual environment, activate virtual environment, install requirements
+* `python3 run.py`
