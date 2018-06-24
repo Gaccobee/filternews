@@ -70,7 +70,7 @@ api = setup_twitter_api()
 start_time=time.time()
 while True:
     print('Starting...')
-    time.sleep(60.0 - ((time.time() - start_time) % 60.0))
+    time.sleep(3600.0 - ((time.time() - start_time) % 3600.0))
 
     news = fetch_news()
     filtered_news = run_news_through_filter(news)
